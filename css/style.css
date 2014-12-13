@@ -1,0 +1,44 @@
+#logo {
+  text-align: center;
+  
+}
+
+#navigation{
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 0.8em;
+font-weight: bold;
+border-right: 1px solid #333;
+  text-align: center;
+  margin: 10px;
+}
+ 
+#navigation ul {
+list-style: none;
+margin: 0;
+padding: 0;
+}
+ 
+#navigation ul li {
+margin: 0;
+  display: inline;
+list-style-type: none;
+padding-right: 20px;
+}
+
+#forces {
+  font-family: arial;
+  text-align: center;
+}
+
+#forces a{
+  display: block;
+  margin: 20px;
+  text-decoration: none;
+  color: blue;
+  font-weight: bold;
+}
+
+#logo {
+  font-family: arial;
+}
+ 
